@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "Datenschutz und IT-Sicherheit",
+        "ects": 5,
+        "note": 2.7,
+        "semester": 1
+    },
+    {
+        "name": "Wissenschaftliches Arbeiten",
+        "ects": 5,
+        "note": null,
+        "semester": 1
+    },
+    {
+        "name": "Netzwerksicherheit",
+        "ects": 5,
+        "note": 2.0,
+        "semester": 1
+    },
+    {
+        "name": "Kryptographie",
+        "ects": 5,
+        "note": 1.3,
+        "semester": 1
+    }
+]
